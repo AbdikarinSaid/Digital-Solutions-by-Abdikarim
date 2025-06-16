@@ -61,5 +61,5 @@ Whether you have a position, want to collaborate, or just want to say hello, fee
 
 ---
 
-🔗 **Explore more projects on GitHub:** [AbdikarinSaid/Digital-Solutions-by-Abdikarim](AbdikarinSaid/Digital-Solutions-by-Abdikarim)  
+🔗 **Explore more projects on GitHub:** [https://github.com/AbdikarinSaid/Digital-Solutions-by-Abdikarim.git](https://github.com/AbdikarinSaid/Digital-Solutions-by-Abdikarim.git)  
 📄 **Download my resume** for more details about my experience and skills.
